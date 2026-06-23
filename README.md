@@ -2,7 +2,7 @@
 
 ### Equipes
 
-- **Equipe 01:** Thiago & Guilherme
-- **Equipe 02:** Leonidas & Venicio
-- **Equipe 03:** Sammyle & Fernandes
-- **Equipe 04:** Vitória & Mayk
+- **Equipe 01:** Thiago & Guilherme - Escola EAD
+- **Equipe 02:** Leonidas & Venicio - Financeiro
+- **Equipe 03:** Sammyle & Fernandes - Ecommerce
+- **Equipe 04:** Vitória & Mayk - Concessionária
